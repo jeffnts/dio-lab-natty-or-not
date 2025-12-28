@@ -8,7 +8,7 @@ A proposta do vídeo é retratar, de forma narrativa e visual, o encanto da noit
 
 ## 🎥 Vídeo do Projeto
 👉 **Assista ao vídeo completo:**  
-https://ai.invideo.io/watch/zQGWpklCxaG
+<a target="__blank" href="https://ai.invideo.io/watch/zQGWpklCxaG">Vídeo completo </a>
 
 ## 🤖 Tecnologias Utilizadas
 - **InVideo AI** – geração automatizada de vídeo a partir de prompt textual  
